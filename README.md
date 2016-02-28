@@ -15,7 +15,7 @@ Initial Release.
 
 ### Browser Support
 
-IE6 +, Firefox, Safari, Opera, Chrome and more
+IE7 +, Firefox, Safari, Opera, Chrome and more
 
 
 ### Demo
