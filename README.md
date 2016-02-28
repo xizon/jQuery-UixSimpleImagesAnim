@@ -20,7 +20,7 @@ IE7 +, Firefox, Safari, Opera, Chrome and more
 
 ### Demo
 
-http://<username>.github.io/<projectname>/demo.html
+http://htmlpreview.github.io/?https://github.com/xizon/jQuery-UixSimpleImagesAnim/edit/master/demo.html
 
 
 ###How does it work?
