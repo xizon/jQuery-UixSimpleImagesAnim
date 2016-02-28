@@ -3,6 +3,7 @@
 The jquery.UixSimpleImagesAnim.js about spritely is that the image sequence is a actually one big image, that is being moved around to crate an animation.  It could simulate the CSS3 button animation for the hover effect to take place. At the same time, you can also bind the trigger.
 
 UIUX Lab [@uiux_lab](http://twitter.com/uiux_lab)
+
 [Author URI](http://uiux.cc)
 
 ### Licensing
