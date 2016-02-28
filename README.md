@@ -20,7 +20,7 @@ IE7 +, Firefox, Safari, Opera, Chrome and more
 
 ### Demo
 
-http://uiux.cc/projects/UixSimpleImagesAnim/demo.html
+http://<username>.github.io/<projectname>/demo.html
 
 
 ###How does it work?
