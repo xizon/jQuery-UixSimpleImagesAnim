@@ -183,13 +183,7 @@
 								    moAnim();
 								});
 		
-								$($trigger).bind("mouseover",function(){
-								    if(_tMouseoutStop == false){
-										mtAnim();	
-									}
-								});
-
-							  
+							
 		
 						}
 						
