@@ -6,9 +6,10 @@ UIUX Lab [@uiux_lab](http://twitter.com/uiux_lab)
 
 [Author URI](http://uiux.cc)
 
-### Licensing
+### License
+This project is licensed under the terms of the
+[MIT license](https://github.com/callemall/material-ui/blob/master/LICENSE)
 
-Licensed under the [GPL3.0](http://www.gnu.org/licenses/gpl-3.0.en.html).
 
 ### Updates 
 
