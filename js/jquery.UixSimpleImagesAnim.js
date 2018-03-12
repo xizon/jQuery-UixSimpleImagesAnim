@@ -7,7 +7,7 @@
  * @author:      UIUX Lab
  * @author URI:  http://uiux.cc
  * @version:     1.0.0
- * @licensing:   Licensed under the GPL3.0.
+ * @licensing:   Licensed under the MIT
 
  */
 (function($){
